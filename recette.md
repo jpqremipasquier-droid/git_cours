@@ -17,3 +17,8 @@ Faire griller la chapelure et les pignons à sec dans un poêle, attention, elle
 
 Étape 4
 Au moment de servir ajouter les pignons de pin, la chapelure et la roquette.
+
+Ustensiles : 
+1 cuillèere à soupe 
+1 casserole 
+1 poele
