@@ -6,7 +6,9 @@ chapelures
 
 Étape 1
 
+<<<<<<< HEAD
 Faire bouillir de l'eau dans une casserole, la saler. Cuire le riz 10 min.
+
 
 Étape 2
 
